@@ -9,7 +9,7 @@ public class SpringBootAngularSecurityAppApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBootAngularSecurityAppApplication.class, args);
 
-		System.out.println("Application Started ON GITHUB AND JENKINS TESTINg .....!DONE BY ANNA");
+		System.out.println("Application Started ON GITHUB AND JENKINS TESTINg .....!DONE BY ANNA BHORE");
 
 	}
 
